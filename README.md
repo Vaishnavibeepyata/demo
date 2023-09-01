@@ -1,3 +1,3 @@
 # demo
 usage of github
-author-vaishnavi
+author-vaishnavi(demo)
